@@ -11,14 +11,14 @@ Aplicaciñon de realidad aumentada empleando el motor de videojuegos multiplataf
 
 # Funcionalidades
 
-Aquí se pueden visualizar todas las funcionalidades implementadas: 
+Aquí se pueden visualizar todas las funcionalidades implementadas: https://github.com/NereaCabiedasMoreno/Aplicacion-de-realidad-aumentada/blob/main/memoria.pdf
 
 -Visualizar en 3D los diferentes coches.
 
 
 # Ejecución
 
-Descargar Apk: https://mega.nz/file/Hc1lWAQC#CiZ4mR1Wc5R5L-J8gPiqlQ2csN3oRLDuuuiAyk0ZKvA
+Descargar Apk:
 
 
 
