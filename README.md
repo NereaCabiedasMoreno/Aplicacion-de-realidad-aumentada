@@ -1,5 +1,5 @@
 # Aplicacion-de-realidad-aumentada
-Aplicaciñon de realidad aumentada empleando el motor de videojuegos multiplataforma Unity 3D , además del SDK  Vuforia.El objetivo de dicha aplicación es poder visualizar a través de unos códigos QR generadores los diferentes coches que estén registrados.
+Aplicación de realidad aumentada empleando el motor de videojuegos multiplataforma Unity 3D , además del SDK  Vuforia.El objetivo de dicha aplicación es poder visualizar a través de unos códigos QR generadores los diferentes coches que estén registrados.
 
 # Herramientas utilizadas 
 
