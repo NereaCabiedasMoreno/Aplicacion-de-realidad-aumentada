@@ -16,12 +16,6 @@ Aquí se pueden visualizar todas las funcionalidades implementadas: https://gith
 -Visualizar en 3D los diferentes coches.
 
 
-# Ejecución
-
-Descargar Apk:
-
-
-
 # Desarrollada por: 
 
 -Nerea Cabiedas Moreno
